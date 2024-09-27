@@ -25,10 +25,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/3xpl01777/3xpl01777/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Development Stack</h2>
 
 ###
