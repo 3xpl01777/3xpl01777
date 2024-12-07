@@ -14,7 +14,7 @@
 
 ###
 
-- **Full-Stack Development**: Backend specialist with Go and Java. Frontend with React, TypeScript, and Next.js;
+- **Full-Stack Development**: Backend specialist with Go. Frontend with React, TypeScript, and Next.js;
 
 - **Offensive Security**: Web application Pentesting, Network Pentesting, and Cloud Security;
 - **Incident Response**: Skilled in detecting and mitigating security incidents;
